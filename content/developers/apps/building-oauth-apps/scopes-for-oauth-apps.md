@@ -1,3 +1,4 @@
+
 ---
 title: Scopes for OAuth Apps
 intro: '{% data reusables.shortdesc.understanding_scopes_for_oauth_apps %}'
